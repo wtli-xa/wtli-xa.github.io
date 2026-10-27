@@ -19,14 +19,11 @@ Deep Learning, Reinforcement Learning, Evolutionary Algorithms
 
 #### [[Education & Employment](https://wtli-xa.github.io)] 
 
-Ph.D.,    College of Electronic Engineering,  September 2006 – December 2010,
-Xidian University, Xi'an, China
+Ph.D., College of Electronic Engineering, Sep.2006 – Dec.2010, Xidian University, Xi'an, China
 
-Bachelor., College of Electronic Engineering,  September 2002 – June  2006,
-Xidian University, Xi'an, China
+Bachelor., College of Electronic Engineering,  Sep.2002 – June 2006,Xidian University, Xi'an, China
 
-Visiting scholar, College of Electrical & Computer Engineering, Aug 2015 – Aug 2016,
-UT Austin,TX, US
+Scholar, College of Electrical Engineering, Aug.2015 – Aug.2016,UT Austin,TX, US
 
 #### [[Recent Publications](https://wtli-xa.github.io)]
 
