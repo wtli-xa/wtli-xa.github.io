@@ -9,8 +9,6 @@
 
 #### [[Research Interests](https://wtli-xa.github.io)] [[Education & Employment](https://wtli-xa.github.io)] [[Recent Publications](https://wtli-xa.github.io)]
 
-Research Interests
-
 Phased Antenna Array, Antenna Array Synthesis, 6G Antenna Design
 
 Beampattern Optimization, Synthetic Aperture Radar,Reconfigurable Intelligent Surface
@@ -19,16 +17,18 @@ Beam Focusing, Beam Scanning, Beam adjusting,Intelligent Information Processing
 
 Deep Learning, Reinforcement Learning, Evolutionary Algorithms
 
+#### [[Education & Employment](https://wtli-xa.github.io)] 
 
-Education & Employment
-
-Ph.D., College of Electronic Engineering,  September 2006 – December 2010
+Ph.D.,    College of Electronic Engineering,  September 2006 – December 2010
 Xidian University, Xi'an, China
 
 Bachelor., College of Electronic Engineering,  September 2002 – June  2006
 Xidian University, Xi'an, China
 
-Recent Publications
+Visiting scholar, College of Electrical & Computer Engineering, Aug 2015 – Aug 2016,
+UT Austin,TX, US
+
+#### [[Recent Publications](https://wtli-xa.github.io)]
 
 	X. C. Li, W. T. Li, Y. Q. Hei. Synthesis of Hybrid Geometry-Constrained Sparse Array using ADMM with Relaxation-Projection, IEEE Transactions on Antennas Propagation,  2026.( Early Access)
 
