@@ -7,9 +7,7 @@
 
 #### Email: wtli AT mail DOT xidian DOT edu DOT cn
 
-#### [Research Interests](https://wtli-xa.github.io)
-#### [Education & Employment](https://wtli-xa.github.io)
-#### [Recent Publications](https://wtli-xa.github.io)
+#### [[Research Interests](https://wtli-xa.github.io)] [[Education & Employment](https://wtli-xa.github.io)] [[Recent Publications](https://wtli-xa.github.io)]
 
 Research Interests
 
