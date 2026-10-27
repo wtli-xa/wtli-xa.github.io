@@ -7,7 +7,7 @@
 
 #### Email: wtli AT mail DOT xidian DOT edu DOT cn
 
-#### [[Research Interests](https://wtli-xa.github.io)] [[Education & Employment](https://wtli-xa.github.io)] [[Recent Publications](https://wtli-xa.github.io)]
+#### [[Research Interests](https://wtli-xa.github.io)] 
 
 Phased Antenna Array, Antenna Array Synthesis, 6G Antenna Design
 
@@ -19,10 +19,10 @@ Deep Learning, Reinforcement Learning, Evolutionary Algorithms
 
 #### [[Education & Employment](https://wtli-xa.github.io)] 
 
-Ph.D.,    College of Electronic Engineering,  September 2006 – December 2010
+Ph.D.,    College of Electronic Engineering,  September 2006 – December 2010,
 Xidian University, Xi'an, China
 
-Bachelor., College of Electronic Engineering,  September 2002 – June  2006
+Bachelor., College of Electronic Engineering,  September 2002 – June  2006,
 Xidian University, Xi'an, China
 
 Visiting scholar, College of Electrical & Computer Engineering, Aug 2015 – Aug 2016,
