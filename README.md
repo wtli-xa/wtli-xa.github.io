@@ -2,15 +2,15 @@
 
 # Ph.D, Professor
 
-## [Xidian University] (https://www.xidian.edu.cn/)
+## [Xidian University](https://www.xidian.edu.cn/)
 ## College of Electronic Engineering,
 ## Xi’an, 710071, China
 
 ## Email: wtli AT mail DOT xidian DOT edu DOT cn
 
-## [Research Interests] (https://wtli-xa.github.io/Research)
-## [Education & Employment](https://wtli-xa.github.io/Education)
-## [Recent Publications](https://wtli-xa.github.io/Recent)
+## [Research Interests](https://wtli-xa.github.io)
+## [Education & Employment](https://wtli-xa.github.io)
+## [Recent Publications](https://wtli-xa.github.io)
 
 Research Interests
 
