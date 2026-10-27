@@ -1,5 +1,3 @@
-# wtli-xa.github.io
-
 Wentao Li 
 
 Ph.D, Professor
