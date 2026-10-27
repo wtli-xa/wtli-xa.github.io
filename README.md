@@ -29,3 +29,6 @@ Education & Employment
 
 Ph.D., College of Electronic Engineering,  September 2006 – December 2010
 Xidian University, Xi'an, China
+
+Bachelor., College of Electronic Engineering,  September 2002 – June  2006
+Xidian University, Xi'an, China
