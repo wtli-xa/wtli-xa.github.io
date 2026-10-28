@@ -1,9 +1,9 @@
-# Wentao Li
+# Wentao Li (李文涛)
 
 # Ph.D, Professor
 
-#### [Xidian University](https://www.xidian.edu.cn/)
-#### Xi’an, 710071, China
+## [Xidian University](https://www.xidian.edu.cn/)
+## Xi’an, 710071, China
 
 #### Email: wtli AT mail DOT xidian DOT edu DOT cn
 
