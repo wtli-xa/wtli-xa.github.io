@@ -2,10 +2,12 @@
 
 # Ph.D, Professor
 
-## [Xidian University](https://www.xidian.edu.cn/)
-## Xi’an, 710071, China
+## [Xidian University](https://www.xidian.edu.cn/),  Xi’an, 710071, China
+
+## [Homepage in Chinese](https://web.xidian.edu.cn/wtli/index.html)
 
 #### Email: wtli AT mail DOT xidian DOT edu DOT cn
+
 
 #### [[Research Interests](https://wtli-xa.github.io)] 
 
